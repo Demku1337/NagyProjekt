@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/Demku1337/Projekt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Demku1337/Projekt" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Roland\Desktop" />
+    <option name="cloneParentDir" value="C:\Users\Roland\Desktop\Programok\Projekt" />
   </component>
 </application>
